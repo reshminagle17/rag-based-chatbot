@@ -1,0 +1,1 @@
+"Hallucination in LLMs refers to generating false information not grounded in context."

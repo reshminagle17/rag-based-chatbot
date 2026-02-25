@@ -1,0 +1,1 @@
+FAISS is a vector store by Facebook for fast similarity search.
